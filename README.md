@@ -5,3 +5,4 @@ learn github
 
 - feature-A
 - fix-B
+- feature-C
