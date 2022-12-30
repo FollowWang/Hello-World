@@ -7,3 +7,4 @@ learn github
 - fix-B
 - feature-C
 - feature-D
+- pr test
